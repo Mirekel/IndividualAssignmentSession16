@@ -1,4 +1,11 @@
 # IndividualAssignmentSession16
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+This is a web based SaaS (Software as a Service) for small business or UMKM in Indonesia called
+Stratify
 
-Hello World
+Stratify works by helping clients or small business to maintain their businesss. stratify allows user to view their overall sales performance ,making it easier for them to understand the flow of their business, the messaging features of stratify allows business and investor to communicate with one another, falicitating easier communication and allow business to run smoothly 
+
+How to run Project:
+->
+->
+->
+->
