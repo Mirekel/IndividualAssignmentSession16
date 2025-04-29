@@ -6,5 +6,11 @@ Stratify works by helping clients or small business to maintain their businesss.
 
 How to run Project:
 -> Clone the repository and run it on your own computer,
--> Cheers & Happy Coding
+-> Make sure that git is already on your computer
+-> if you havent installed git, go to https://git-scm.com/downloads
+-> open cmd
+-> type git clone https://github.com/Mirekel/IndividualAssignmentSession16.git
+-> after that go to the project folder with cd repo-name(IndividualAssignmenSession16.git)
+-> type code . 
+-> vs code should be open , go wild & happy coding!
 
