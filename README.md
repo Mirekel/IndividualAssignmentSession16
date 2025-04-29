@@ -5,7 +5,6 @@ Stratify
 Stratify works by helping clients or small business to maintain their businesss. stratify allows user to view their overall sales performance ,making it easier for them to understand the flow of their business, the messaging features of stratify allows business and investor to communicate with one another, falicitating easier communication and allow business to run smoothly 
 
 How to run Project:
-->
-->
-->
-->
+-> Clone the repository and run it on your own computer,
+-> Cheers & Happy Coding
+
